@@ -6,7 +6,6 @@ The purpose of this challenge was to build the backend for an e-commerce website
 
 ## Links
 - URL of the GitHub repository that contains the code: https://github.com/dali-gogo/DIGG-Module13-eShopping
-- URL of the deployed application: dali-gogo.github.io/DIGG-Module13-eShopping
 
 ## User Story
 AS A manager at an internet retail company
@@ -17,4 +16,4 @@ SO THAT my company can compete with other e-commerce companies
 The starter code used was pulled from Boot Camp Spot, Bootcamp Code TDM-VIRT-FSF-PT-03-2024-U-LOLC-MTTH. Modifications to the source code were performed by Dalia Gómez to meet the acceptance criteria defined for the challenge.
 
 ## License
-MIT License used for the corresponding repository.
+MIT License used for the corresponding repository.e
